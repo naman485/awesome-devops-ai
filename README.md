@@ -561,6 +561,7 @@ AI tools for building internal developer platforms, service catalogs, and self-s
 - [Backstage](https://github.com/backstage/backstage) - CNCF incubating project by Spotify for building developer portals with service catalogs, templates, and plugin-based extensibility.
 - [Canopy](https://canopy.8starlabs.com/) - AI-assisted architecture mapping for service catalogs, dependencies, ownership, and cloud cost context from GitHub repositories.
 - [Cortex](https://www.cortex.io/) - Internal developer portal with AI-driven service maturity scorecards, ownership tracking, and reliability standards enforcement.
+- [CreateOS Sandbox](https://createos.sh/products/sandbox) - Firecracker micro-VMs for AI agents with own kernel per sandbox, private networking, pause-to-zero with state preserved, no egress fees, and SDK/CLI/MCP/REST (npm `@nodeops-createos/sandbox`).
 - [Cycloid](https://www.cycloid.io/) - Platform engineering solution with AI-powered infrastructure self-service, cost governance, and green IT scoring.
 - [Fortem](https://fortem.dev) - Control plane for teams running 10+ ECS Fargate environments — fleet-wide visibility, developer self-service with RBAC, per-environment cost attribution, and AI diagnostics that read CloudWatch and propose fixes.
 - [Humanitec](https://humanitec.com/) - Platform orchestrator that powers enterprise internal developer platforms with dynamic configuration management.
